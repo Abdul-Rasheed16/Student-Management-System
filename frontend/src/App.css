@@ -1,0 +1,65 @@
+body{
+  scroll-behavior: smooth;
+  background: url(main.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form-wrapper{
+  background-color: grey;
+  border-radius: 8px;
+}
+.mb-3{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.btn{
+  margin-bottom: 20px;
+}
+.title{
+  font-size: 1.5rem;
+  background-color: white;
+  color: brown;
+  text-align: center;
+  margin-top: 250px;
+  opacity: 0.9;
+}
+.contain{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 80px;
+  margin-left: 120px;
+}
+.context{
+  margin-top: 40px;
+}
+.context h5{
+  color: brown;
+  font-size: 1.5rem;
+}
+.context p{
+  font-size: 1rem;
+}
+.foot{
+  margin-top: 40px;
+  background-color: brown;
+  font-size: 1.5rem;
+  color: white;
+}
+.foot h3{
+  color: black;
+  margin-left: 50%;
+}
+.foot p{
+  margin-left: 50%;
+}
+footer{
+  margin-right: 200px;
+  font-size: .8rem;
+}
+.head{
+  font-size: 2rem;
+  color: rgb(226, 1, 1);
+  text-align: center;
+  
+}
